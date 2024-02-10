@@ -1,0 +1,16 @@
+{
+  "version": "2.1.3",
+  "summary": {
+    "title": "Modelo de Amenazas EVA",
+    "owner": "Jean Carlo Martínez Herrera",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Jean Carlo Martínez Herrera",
+    "threatTop": 0
+  }
+}
